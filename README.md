@@ -19,7 +19,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 **Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
 
-#### The Hard Way
+#### The Hard Ways
 
 ```sh
 virtualenv -p python3 VENV
